@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la página de ejercicios de programación de Iván
+
+En esta página guardaré todos los archivos del curso, espero tener un conterol sobre mis actividades.
+
+## Sobre mí
+
+
+
+## Ejercicios
+
+
+## Proyecto
+
 
 You can use the [editor on GitHub](https://github.com/Legoar97/Un-repositoriopara-mis-ejercicios-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
